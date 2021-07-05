@@ -6,8 +6,11 @@ Its just easy to clone this repo and use the wallpapers on any machine rather th
 If you wanna use them then here is the guide -
 
 Step 0 - Make a new directory/folder.
+
 Step 1 - cd into that directory (Fow windows users - Open that directory in cmd)
+
 Step 2 - install git
+
 Step 3 - Run 
 git clone https://github.com/hellcatWahran/my_wallpapers
 in your terminal/cmd
